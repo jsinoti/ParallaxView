@@ -17,9 +17,10 @@
 		297038B016E51BC0002F0D05 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 297038AE16E51BC0002F0D05 /* ViewController.xib */; };
 		297038BA16E51C22002F0D05 /* CCParallaxView.m in Sources */ = {isa = PBXBuildFile; fileRef = 297038B916E51C22002F0D05 /* CCParallaxView.m */; };
 		29E1C21516E6225800D14CC3 /* sky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29E1C21416E6225800D14CC3 /* sky.jpg */; };
-		29E1C21716E6293300D14CC3 /* Readme in Resources */ = {isa = PBXBuildFile; fileRef = 29E1C21616E6293300D14CC3 /* Readme */; };
 		29E1C21E16E62F2500D14CC3 /* bird1.png in Resources */ = {isa = PBXBuildFile; fileRef = 29E1C21C16E62F2500D14CC3 /* bird1.png */; };
 		29E1C21F16E62F2500D14CC3 /* bird2.png in Resources */ = {isa = PBXBuildFile; fileRef = 29E1C21D16E62F2500D14CC3 /* bird2.png */; };
+		29E1C22116E6334400D14CC3 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 29E1C22016E6334400D14CC3 /* LICENSE */; };
+		29E1C22316E6335900D14CC3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 29E1C22216E6335900D14CC3 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,9 +40,10 @@
 		297038B816E51C22002F0D05 /* CCParallaxView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CCParallaxView.h; path = CCParallaxView/CCParallaxView.h; sourceTree = "<group>"; };
 		297038B916E51C22002F0D05 /* CCParallaxView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CCParallaxView.m; path = CCParallaxView/CCParallaxView.m; sourceTree = "<group>"; };
 		29E1C21416E6225800D14CC3 /* sky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sky.jpg; sourceTree = "<group>"; };
-		29E1C21616E6293300D14CC3 /* Readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Readme; path = CCParallaxView/Readme; sourceTree = "<group>"; };
 		29E1C21C16E62F2500D14CC3 /* bird1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird1.png; sourceTree = "<group>"; };
 		29E1C21D16E62F2500D14CC3 /* bird2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird2.png; sourceTree = "<group>"; };
+		29E1C22016E6334400D14CC3 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		29E1C22216E6335900D14CC3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,7 +128,8 @@
 			children = (
 				297038B816E51C22002F0D05 /* CCParallaxView.h */,
 				297038B916E51C22002F0D05 /* CCParallaxView.m */,
-				29E1C21616E6293300D14CC3 /* Readme */,
+				29E1C22216E6335900D14CC3 /* README.md */,
+				29E1C22016E6334400D14CC3 /* LICENSE */,
 			);
 			name = CCParallaxView;
 			sourceTree = "<group>";
@@ -185,9 +188,10 @@
 				2970389E16E51BC0002F0D05 /* InfoPlist.strings in Resources */,
 				297038B016E51BC0002F0D05 /* ViewController.xib in Resources */,
 				29E1C21516E6225800D14CC3 /* sky.jpg in Resources */,
-				29E1C21716E6293300D14CC3 /* Readme in Resources */,
 				29E1C21E16E62F2500D14CC3 /* bird1.png in Resources */,
 				29E1C21F16E62F2500D14CC3 /* bird2.png in Resources */,
+				29E1C22116E6334400D14CC3 /* LICENSE in Resources */,
+				29E1C22316E6335900D14CC3 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
